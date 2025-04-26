@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+</head>
+<body>
+    <h1>Welcome to my Web CSS Exercises!</h1>
+    <p>Please go to exercises/exercise1, exercise2, and exercise3 folders to see my tasks.</p>
+</body>
+</html>
